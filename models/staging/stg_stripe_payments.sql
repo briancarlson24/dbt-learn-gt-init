@@ -1,4 +1,4 @@
-/*
+
     select
         amount / 100 as amount, 
         created,
@@ -8,7 +8,3 @@
         status
 
     from raw.stripe.payment
-*/
-
---select * from raw.stripe.payment
---select * from raw.jaffle_shop.orders
